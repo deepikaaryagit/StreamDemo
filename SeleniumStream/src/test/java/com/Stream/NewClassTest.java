@@ -1,4 +1,4 @@
-package com.Amazon.Stream;
+package com.Stream;
 
 public class NewClassTest {
 

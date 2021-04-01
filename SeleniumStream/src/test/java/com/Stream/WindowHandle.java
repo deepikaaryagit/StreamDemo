@@ -1,4 +1,4 @@
-package com.Amazon.Stream;
+package com.Stream;
 
 import java.util.List;
 import java.util.Set;
